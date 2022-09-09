@@ -1,6 +1,7 @@
 #include<stdio.h>
 /*
-*Description: main - Prints out a string to stdout.
+*main - Entry point
+*Description: prints out a string to stdout.
 *Return: always 0
 */
 int main(void)
