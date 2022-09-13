@@ -1,4 +1,3 @@
-#include <studio.h>
 #include <main.h>
 /**main - enrry point
 *return: always 0
